@@ -32,7 +32,7 @@ DOCUMENT_ROOTS = [
 SUPPORTED_FILE_EXTENSIONS = {".pdf", ".txt", ".md", ".csv"}
 
 
-SYSTEM_PROMPTS = {
+SYSTEM_PROMPT = {
     "en": """You are FEVCOM AI, an industrial maintenance troubleshooting assistant.
 Assume the user has basic electrical and mechanical knowledge, but keep them safe.
 
